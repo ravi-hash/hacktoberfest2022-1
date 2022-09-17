@@ -12,21 +12,21 @@ The project mainly focus on beginners who are gonna participate in Hacktoberfest
 * Add a new java program for Searching and Sorting techniques in Java
     * Linear Search
     * Binary Search
-    ** Insertion Sort
-    ** Selection Sort
-    ** Merge Sort
-    ** Quick Sort
-    ** Heap Sort
+    * Insertion Sort
+    * Selection Sort
+    * Merge Sort
+    * Quick Sort
+    * Heap Sort
     
 ## HTML Cotribution
 
 * Add a landing page for Introduction of Any programming language and describing its data type lopps and conditional statements
-   ** Java
-   ** C
-   ** C++
-   ** C#
-   ** Python
-   ** Javascript
+   * Java
+   * C
+   * C++
+   * C#
+   * Python
+   * Javascript
    
    
   
