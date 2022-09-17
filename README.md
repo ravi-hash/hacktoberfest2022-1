@@ -10,8 +10,8 @@ The project mainly focus on beginners who are gonna participate in Hacktoberfest
 ## Java Contribution
 
 * Add a new java program for Searching and Sorting techniques in Java
-    ** Linear Search
-    ** Binary Search
+    * Linear Search
+    * Binary Search
     ** Insertion Sort
     ** Selection Sort
     ** Merge Sort
